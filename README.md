@@ -7,7 +7,7 @@ Ever wanted to clone Gmail Inbox functionalities (Send Message, Read Message, De
 
 1. Enable the Gmail API the Gmail API from your [Google API Developer Console](https://console.developers.google.com/). 
 2. Obtain Credentials of type "OAuth Client ID". If GDC asks you to specify "OAuth consent screen" first, just choose "External".
-3. Credential's Application type will be "Web application".
+3. Credential's Application type will be "Desktop application".
 4. Since you will be testing on your local environment for now, use "http://localhost" for both "Authorised Javascript origins" and "Authorised redirect URIs"
 5. Click the download button on the far right corner of your clientID.
 6. Open the downloaded credentials.json file and populate the existing credentials.json file on this project located at "src/main/java/credentials.json"

@@ -1,5 +1,5 @@
 # java-gmail-api
-Ever wanted to clone Gmail Inbox? Now you can.
+Ever wanted to clone Gmail Inbox functionalities (Send Message, Read Message, Delete Message, Manage Gmail Inbox) ? Now you can.
 
 ## How to run this project:
 

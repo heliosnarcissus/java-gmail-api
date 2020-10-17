@@ -11,7 +11,7 @@ Ever wanted to clone Gmail Inbox functionalities (Send Message, Read Message, De
 6. Open the downloaded credentials.json file and populate the existing credentials.json file on this project located at "src/main/java/credentials.json"
 7. You are now ready to run the project. On your first attempt, Gmail will open a browser for this java application to be authorized. Click 'Allow'.
 
-*I have already setup this project so your 'access tokens' are located at "gmail-api-java/tokenLocatedHere".  The [Google Gmail API Quickstart](https://developers.google.com/gmail/api/quickstart/java) doesn't mention where this is located. It's usually a 'hidden file' and it becames troublesome when you want to change the scope (read-only, write ,etc) of your application. Everytime you need to change the scope of your app, you have to delete this token for the new scope to take effect. The default scope of this java application is set to "all powerful" which means it can perform all the Gmail API tasks. 
+*I have already setup this project so your 'access tokens' are located at "gmail-api-java/tokenLocatedHere".  The [Google Gmail API Quickstart](https://developers.google.com/gmail/api/quickstart/java) doesn't mention where this is located. It's usually a 'hidden file' and it becames troublesome when you want to change the scope (read-only, write ,etc) of your application. Everytime you need to change the scope of your app, you have to delete this token for the new scope to take effect. The default scope of this java application is set to "all powerful" which means it can perform all the Gmail API tasks.*
 
 ### Gmail API Scope:
 
